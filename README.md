@@ -52,7 +52,7 @@ In this challenge, I did a little bit improvization by changing the background i
 
 ### Links
 
-- Solution URL: [NFT preview card component](https://gavrillamahdi.github.io/3-column-preview-card-component-main/)
+- Solution URL: [3-column-preview-card-component-main](https://gavrillamahdi.github.io/3-column-preview-card-component-main/)
 
 **Note: you can change the theme to dark by changing your device theme to dark mode**
 
