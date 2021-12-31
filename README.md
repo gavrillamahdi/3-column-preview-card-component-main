@@ -52,7 +52,7 @@ In this challenge, I did a little bit improvization by changing the background i
 
 ### Links
 
-- Solution URL: [3-column-preview-card-component-main](https://gavrillamahdi.github.io/3-column-preview-card-component-main/)
+- Live Site URL: [3-column-preview-card-component-main](https://gavrillamahdi.github.io/3-column-preview-card-component-main/)
 
 **Note: you can change the theme to dark by changing your device theme to dark mode**
 
@@ -68,7 +68,7 @@ In this challenge, I did a little bit improvization by changing the background i
 
 ### What I learned
 
-In this challenge I learn how to use `prefers-color-scheme` CSS media feature to style the website to dark mode when the user's indicate dark preference through an operating system setting. [Tailwind CSS](https://tailwindcss.com/) handle this behaviour through `dark:` classes utilites. This approach pretty easy to use and implement when building a website I think
+In this challenge I learn how to use `prefers-color-scheme` CSS media feature to style the website to dark mode when the user's indicate dark preference through an operating system setting. [Tailwind CSS](https://tailwindcss.com/) handle this behaviour through `dark:` class utility. This approach pretty easy to use and implement when building a website I think
 
 ## Author
 
