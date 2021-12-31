@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    @apply text-5xl font-big-shoulders text-light-gray uppercase;
+  }
+
+  body {
+    @apply text-light-gray font-lexend-deca font-normal;
+  }
+
+  p {
+    @apply text-light-gray/75 text-sm;
+  }
+}
+
+@layer components {
+  .card {
+    @apply my-24 md:mt-16 rounded-md overflow-hidden md:h-[578px] md:mb-0 md:flex;
+  }
+
+  .btn {
+    @apply border rounded-full py-3 px-9 mt-8 bg-light-gray md:mt-auto md:self-start;
+  }
+
+  .item {
+    @apply p-12 md:h-full  md:flex-col md:flex;
+  }
+
+  .attribution a {
+    @apply text-bright-orange active:text-gray-300 dark:active:text-cyan-800;
+  }
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
